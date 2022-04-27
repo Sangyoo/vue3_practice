@@ -4,6 +4,7 @@
 
 <script>
 /*
+https://kr.vuejs.org/images/lifecycle.png
 1. create - 컴포넌트를 코드가 쓰여진 대로 생성하는 단계
 2. mount - 컴포넌트를 html 구조에 연결시키는 단계*/ 
 export default{
